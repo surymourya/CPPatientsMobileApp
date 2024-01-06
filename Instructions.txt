@@ -2,3 +2,5 @@
 	npx create-expo-app appname -t expo-template-blank-typescript
 2. To run the app use below command.
 	npx npm start
+3. Git respostiory for CP patient mobile app
+	https://github.com/surymourya/CPPatientsMobileApp

@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Welcome 
-        name="Rupa"
+        name="Suresh"
         age={37}
         gender={true}/>      
     </View>
