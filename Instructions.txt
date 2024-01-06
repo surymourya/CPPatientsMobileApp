@@ -1,0 +1,4 @@
+1. To creare teh expo app using expo use below command.
+	npx create-expo-app appname -t expo-template-blank-typescript
+2. To run the app use below command.
+	npx npm start
